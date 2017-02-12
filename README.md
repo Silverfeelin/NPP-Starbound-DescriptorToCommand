@@ -1,4 +1,4 @@
-# NPP-Starbound-DescriptorToCommand
+# NPP Starbound Descriptor to Command
 A NotePad++ plugin that implements the same functionality as [Starbound-DescriptorToCommand](https://silverfeelin.github.io/Starbound-DescriptorToCommand/):  
 An easy method to turn a valid Starbound Item Descriptor into a `/spawnitem` command.
 
